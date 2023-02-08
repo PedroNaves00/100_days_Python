@@ -8,7 +8,8 @@
 <h3 align="center">Meu exercicios e projetos em Python relacionados ao curso "100daysPython" criado pela Dr. Angela Yu. </h3>
 
 
-- `Days`: Are all my exercises for each topic of te course. 👉 São todos meus exercícios para cada topico do curso
+- `Days`: Are all my exercises for each topic of te course. 
+- `Days`: São todos meus exercícios para cada topico do curso
 - `Projects`: Every project that i've produced during the course. 👉 Todos os projetos foram produzidos durante o curso
 - `Basic Projects`: All of my inicial projects of python. 👉 Todos meus projeto iniciais
 
