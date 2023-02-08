@@ -25,7 +25,7 @@ def draw(size_of_gap):
         pedro.setheading(pedro.heading() + size_of_gap)
 
 
-draw(10)
+draw(2)
 
 screen = Screen()
 screen.exitonclick()
