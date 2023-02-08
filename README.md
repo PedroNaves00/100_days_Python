@@ -7,7 +7,7 @@
 
 <br>
 
-Meu exercicios e projetos em Python relacionados ao curso "100daysPython" criado pela Dr. Angela Yu.
+<h3 align="center">Meu exercicios e projetos em Python relacionados ao curso "100daysPython" criado pela Dr. Angela Yu. </h3>
 
 
 - `Days`: Are all my exercises for each topic of te course.
