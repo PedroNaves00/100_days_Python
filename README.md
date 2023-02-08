@@ -6,6 +6,7 @@
 ## About/Sobre
 
 My Python exercises and projects related to the "100daysPython" course created by Dr. Angela Yu. 
+<br>
 Meu exercicios e projetos em Python relacionados ao curso "100daysPython" criado pela Dr. Angela Yu. 
 
 
