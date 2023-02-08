@@ -9,6 +9,7 @@
 
 
 - `Days`: Are all my exercises for each topic of te course.
+São todos meus exercícios para cada topico do curso
 - `Projects`: Every project that i've produced during the course.
 - `Basic Projects`: All of my inicial projects of python.
 
