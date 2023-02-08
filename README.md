@@ -5,6 +5,11 @@
 
 <h2 align="center"> My Python exercises and projects related to the "100daysPython" course created by Dr. Angela Yu. </h2>
 
+<br>
+
+Meu exercicios e projetos em Python relacionados ao curso "100daysPython" criado pela Dr. Angela Yu.
+
+
 - `Days`: Are all my exercises for each topic of te course.
 - `Projects`: Every project that i've produced during the course.
 - `Basic Projects`: All of my inicial projects of python.
