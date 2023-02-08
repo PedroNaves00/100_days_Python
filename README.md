@@ -5,3 +5,7 @@
 
 <h2 align="center"> My Python exercises and projects related to the "100daysPython" course created by Dr. Angela Yu </h2>
 
+- `Days`: Are all my exercises for each topic of te course
+- `Projects`: Every project that i've produced during the course
+- 
+
