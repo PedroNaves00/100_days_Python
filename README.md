@@ -12,7 +12,7 @@ Meu exercicios e projetos em Python relacionados ao curso "100daysPython" criado
 
 <br>
 
-## Detail/Detalhes 🗓️
+## Details/Detalhes 🗓️
 
 - `Days`: Are all my exercises for each topic of te course. 
 - `Days`: São todos meus exercícios para cada topico do curso.
@@ -21,3 +21,6 @@ Meu exercicios e projetos em Python relacionados ao curso "100daysPython" criado
 - `Basic Projects`: All of my inicial projects of python. 
 - `Basic Projects`: Todos meus projeto iniciais.
 
+## 🏫 Escola / School 
+
+[Udemy Curse](https://www.udemy.com/course/100-days-of-code/)
