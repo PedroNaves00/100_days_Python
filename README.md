@@ -9,7 +9,10 @@
 
 
 - `Days`: Are all my exercises for each topic of te course. 
+<br>
 - `Days`: São todos meus exercícios para cada topico do curso
-- `Projects`: Every project that i've produced during the course. 👉 Todos os projetos foram produzidos durante o curso
-- `Basic Projects`: All of my inicial projects of python. 👉 Todos meus projeto iniciais
+- `Projects`: Every project that i've produced during the course. 
+- `Projects`: Todos os projetos foram produzidos durante o curso
+- `Basic Projects`: All of my inicial projects of python. 
+- `Basic Projects`: Todos meus projeto iniciais
 
