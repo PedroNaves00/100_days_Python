@@ -5,8 +5,6 @@
 
 <h2 align="center"> My Python exercises and projects related to the "100daysPython" course created by Dr. Angela Yu. </h2>
 
-<br>
-
 <h3 align="center">Meu exercicios e projetos em Python relacionados ao curso "100daysPython" criado pela Dr. Angela Yu. </h3>
 
 
